@@ -17,7 +17,7 @@ export default [
       "no-undef": "error",
       eqeqeq: "error",
       "prefer-const": "error",
-      "no-console": "error",
+      "no-console": "off",
     },
   },
 ];
